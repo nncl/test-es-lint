@@ -1,0 +1,9 @@
+{
+  "extends": ["airbnb-standard"],
+  "parserOptions": {
+    "ecmaVersion": 6,
+    "sourceType": "module"
+  },
+  "rules": {
+  }
+}
